@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{77C5D9A3-B418-3FDA-EB34-C35E4B0E6D92}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Pathfinding.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Pathfinding.cs" Line="39" Column="13" />
+      <File FileName="Assets/Scripts/BuildingPlacement.cs" Line="19" Column="52" />
+      <File FileName="Assets/Scripts/PathRequestManager.cs" Line="1" Column="1" />
+      <File FileName="../../CSGO/Assets/Controller/EnemyController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PathfindingDemo" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Pathfinding.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
